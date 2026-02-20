@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+kings_data.csv
+venv/
+__pycache__/
